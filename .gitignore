@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data files (if you want to exclude them)
+data/
+hw1_data/
+
+# Environment
+.env
+venv/ 
+.venv/
